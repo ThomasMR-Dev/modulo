@@ -1,0 +1,38 @@
+[33mcommit cd56d6ee647b978f764982019e5a4d2228128243[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: ThomasMR-Dev <thorigo2@gmail.com>
+Date:   Mon Jan 6 09:29:11 2025 -0300
+
+    inclusão changelog.md
+
+ changelog.md | 13 [32m+++++++++++++[m
+ 1 file changed, 13 insertions(+)
+
+[33mcommit 1cf0e355faaad1abe140b2aa9a235288438b0af0[m
+Author: ThomasMR-Dev <thorigo2@gmail.com>
+Date:   Mon Jan 6 09:17:55 2025 -0300
+
+    colocando acentuacao no arquivo2.txt
+
+ arquivo2.txt | Bin [31m34[m -> [32m34[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 1b95eaca543d8e9f98cc1f7d209b0f5a99ab85b3[m
+Author: ThomasMR-Dev <thorigo2@gmail.com>
+Date:   Mon Jan 6 09:15:29 2025 -0300
+
+    alterando o conteudo de arquivo2.txt
+
+ arquivo2.txt | Bin [31m0[m -> [32m34[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 304b1bcd5ca0e58a8e62445dd2688a3b36e16657[m
+Author: ThomasMR-Dev <thorigo2@gmail.com>
+Date:   Mon Jan 6 09:10:37 2025 -0300
+
+    inclusão de novos arquivos
+    
+    inclusão dos arquivos: arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | Bin [31m0[m -> [32m26[m bytes
+ arquivo2.txt |   0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
